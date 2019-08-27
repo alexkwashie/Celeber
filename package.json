@@ -4,17 +4,17 @@
   "private": true,
   "homepage": "https://alexkwashie.github.io/celeber",
   "dependencies": {
-    "gh-pages":"^2.1.1",
-    "react":"^16.9.0",
-    "react-dom":"^16.9.0",
-    "react-scripts":"3.1.1"
+    "gh-pages": "^2.1.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn-build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
