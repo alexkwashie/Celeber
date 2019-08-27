@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/celeber/static/css/main.fc2624b5.chunk.css",
+    "main.js": "/celeber/static/js/main.8a454dde.chunk.js",
+    "main.js.map": "/celeber/static/js/main.8a454dde.chunk.js.map",
+    "runtime~main.js": "/celeber/static/js/runtime~main.0d751083.js",
+    "runtime~main.js.map": "/celeber/static/js/runtime~main.0d751083.js.map",
+    "static/js/2.aa05ca6d.chunk.js": "/celeber/static/js/2.aa05ca6d.chunk.js",
+    "static/js/2.aa05ca6d.chunk.js.map": "/celeber/static/js/2.aa05ca6d.chunk.js.map",
+    "index.html": "/celeber/index.html",
+    "precache-manifest.dc849ebc548d465131f953391cfc401d.js": "/celeber/precache-manifest.dc849ebc548d465131f953391cfc401d.js",
+    "service-worker.js": "/celeber/service-worker.js",
+    "static/css/main.fc2624b5.chunk.css.map": "/celeber/static/css/main.fc2624b5.chunk.css.map"
+  }
+}
